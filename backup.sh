@@ -3,6 +3,9 @@
 
 # eg---> ./backup.sh <src> <dstn>
 # src</home/kashyap/poem> dstn</home/kashyap/backup>
+<<comment
+this is a shell script to take backups and can also run crontabs yayyyyyyy
+comment
 
 src=$1
 dest=$2
